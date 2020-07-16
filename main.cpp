@@ -37,7 +37,7 @@ public:
 
 
 int main() {
-    Fl_Window win(600, 600, "Color changer");
+    Fl_Window win(600, 600, "ColorChangingButton");
     win.color(FL_WHITE);
     char *title = "";
     button *x = new button(100,100,100,100, title);
