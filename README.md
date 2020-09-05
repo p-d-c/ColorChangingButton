@@ -1,4 +1,4 @@
-Built in July 2020
+Last updated: July 2020
 
 Language: C++
 Libraries: FLTK
